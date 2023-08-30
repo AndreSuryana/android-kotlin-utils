@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notify Me!</string>
+
+    <string name="btn_notify">Notify Me!</string>
+
+    <string name="notification_channel_name">General Notification</string>
+    <string name="notification_channel_desc">Show general notification</string>
+
+    <string name="notification_target_title">Target Notification</string>
+    <string name="notification_target_desc">Notification from Target</string>
+
+    <string name="permission_notification_request">Please allow permission to display notifications.</string>
+</resources>
