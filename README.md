@@ -15,4 +15,4 @@ The **Android Kotlin Utility Class** is a collection of helpful functions and cl
 ## Installation
 
 1. Clone or download this repository.
-2. Add the `UtilityClass.kt` file to your project.
+2. Add the utility class from `util` folder, `DesiredUtilityClass.kt` file to your project.
