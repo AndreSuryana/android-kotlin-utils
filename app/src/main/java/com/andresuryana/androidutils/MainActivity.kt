@@ -1,9 +1,9 @@
-package com.andresuryana.notifyme
+package com.andresuryana.androidutils
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.andresuryana.notifyme.databinding.ActivityMainBinding
-import com.andresuryana.notifyme.util.NotificationUtil
+import com.andresuryana.androidutils.databinding.ActivityMainBinding
+import com.andresuryana.androidutils.util.NotificationUtil
 
 class MainActivity : AppCompatActivity() {
 

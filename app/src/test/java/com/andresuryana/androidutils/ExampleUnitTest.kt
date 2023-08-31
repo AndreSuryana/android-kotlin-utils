@@ -1,4 +1,4 @@
-package com.andresuryana.notifyme
+package com.andresuryana.androidutils
 
 import org.junit.Test
 

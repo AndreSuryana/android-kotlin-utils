@@ -1,4 +1,4 @@
-package com.andresuryana.notifyme.util
+package com.andresuryana.androidutils.util
 
 import android.Manifest
 import android.app.Activity
@@ -18,7 +18,7 @@ import androidx.core.app.NotificationCompat
 import androidx.core.content.ContextCompat
 import androidx.core.content.PermissionChecker
 import androidx.fragment.app.FragmentActivity
-import com.andresuryana.notifyme.R
+import com.andresuryana.androidutils.R
 
 class NotificationUtil(
     private val activity: FragmentActivity,

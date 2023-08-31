@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.andresuryana.notifyme'
+    namespace 'com.andresuryana.androidutils'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.andresuryana.notifyme"
+        applicationId "com.andresuryana.androidutils"
         minSdk 24
         targetSdk 33
         versionCode 1
